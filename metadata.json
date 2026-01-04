@@ -1,0 +1,8 @@
+{
+  "name": "FocusFlow: Gaze Attendance Monitor",
+  "description": "An AI-powered application that tracks student engagement by counting how many times they look at the screen using MediaPipe Face Landmarker.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
